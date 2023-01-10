@@ -1,3 +1,4 @@
+//w1d1
 /* 
   https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/
   Stable
@@ -58,10 +59,10 @@ console.log(bubbleSort(expected))
 // Pseudocode:
 // create first loop that goes from the index of 0 to the length of the array
 // create a second loop that goes from the index of 1 to the length of the array
-  // then compare the first loop's value to the second loop's value. 
+  // then compare the first loop's value to the second loop's value.
   // IF the second loop's value is GREATER THAN the first...
       // create a temp variable (so we can swap the values)
       // reassign the value of temp to [i]
       // reassign the value of [i] to [j]
-      // reassign the value of [j] to temp 
+      // reassign the value of [j] to temp
 // return (our sorted) array
